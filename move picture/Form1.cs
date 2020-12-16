@@ -36,5 +36,10 @@ namespace move_picture
         {
             pictureBox1.Location = new Point(pictureBox1.Location.X + 50, pictureBox1.Location.Y);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
